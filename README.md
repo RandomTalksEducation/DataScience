@@ -1,51 +1,67 @@
-# 📊 Data Science 101: Veri Bilimi ve İş Dünyasındaki Yeri
+# 💡 Random Talks Education - Seminer Serisi
 
-Bu depo, **Veri Bilimi (Data Science)** alanına giriş yapmak isteyenler, bu alandaki güncel bilgileri, kariyer ve eğitim olanaklarını merak edenler için hazırlanmış sunum materyalini içermektedir.
+Bu depo, **Random Talks Education** seminer serisi kapsamında hazırlanan sunum ve Jupyter Notebook materyallerini içermektedir.
 
-Bu sunum, Veri Bilimi'nin ne olduğu, iş dünyasındaki önemi, kariyer yolları ve temel öğrenme kaynakları üzerine kapsamlı bir rehber niteliğindedir.
-
----
-
-## 📄 Sunum Dosyası
-
-Bu depodaki ana dosya, **"Data Science 101 - Veri Bilimi ve Is Dunyasındaki Yeri"** başlıklı PowerPoint sunumudur.
-
-| Dosya Adı | Açıklama |
-| :--- | :--- |
-| `Data Science 101 - Veri Bilimi ve Is Dunyasındaki Yeri.pptx` | Sunumun orijinal PowerPoint dosyası. |
+* **Youtube Sitesi:** [Random Talks Education Web Sitesi](https://www.youtube.com/@RandomTalksEducation)
 
 ---
 
-## 🎯 Kapsanan Ana Konular
+### 👤 Eğitmen ve Kurum Bilgisi
 
-Sunum, Veri Bilimi'nin temellerinden başlayarak iş dünyasındaki yerine kadar birçok kritik konuyu detaylıca ele almaktadır:
+**Prof. Dr. Bekir Taner Dinçer** > Muğla Sıtkı Koçman Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü.
 
-### 1. Veri Bilimi Nedir?
-* **Çok Disiplinli Tanım:** İstatistik, Bilgisayar Bilimi ve İş Bilgisinin kesişim noktası olarak Veri Bilimi.
-* Verilerden anlamlı **içgörüler çıkarma**, **karar vermeyi yönlendirme** ve **tahminler yapma** süreci.
+* **İletişim/E-posta:** randomtalkseducation@gmail.com
 
-### 2. Kariyer ve İş Dünyası
-* Veri Bilimi'nin iş dünyası için taşıdığı kritik önem.
-* **Veri Analisti** ve **Veri Bilimci** rolleri için temel gereksinimler ve öğrenim yol haritaları.
+<hr>
 
-### 3. Eğitim Olanakları
-* İstatistik ve Bilgisayar Bilimleri lisans/lisansüstü eğitiminin Veri Bilimi'ndeki yeri.
-* Açık kaynaklar ve ücretsiz öğrenme platformları (örneğin **Google Colab**).
-* İçerik hazırlama sürecinde **Büyük Dil Modelleri'nin (LLM)** ve araçların (NotebookLM) kullanımı.
+### 📄 Materyal Bilgisi ve Lisans
+
+Burada yayınlanan Jupyter Notebook'lar ve sunum dosyaları, **Random Talks Education** tarafından düzenlenen seminer serileri kapsamında hazırlanmıştır ve eğitim/araştırma amaçlıdır.
+
+#### **Kullanım ve Lisans:**
+
+Bu materyal, **MIT Lisansı** altında yayınlanmıştır. Bu, materyali kullanma, kopyalama, değiştirme, birleştirme, yayınlama, dağıtma, alt lisanslama ve/veya satışını yapma hakkına sahip olduğunuz anlamına gelir.
+
+**Zorunlu Not:** Materyali kullanırken veya dağıtırken, orijinal telif hakkı bildirimini ve lisans metnini (aşağıdaki kısım) korumanız gerekmektedir.
+
+```
+
+Copyright (c) 2025 Random Talks Education/Academy & Prof. Dr. Bekir Taner Dinçer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+```
+
+<hr>
+
+### 🗓️ Versiyon ve Güncelleme Tarihi
+
+* **Versiyonu:** v1.0.0
+* **Son Güncelleme:** 26 Kasım 2025
 
 ---
 
-## 🎙️ Sunum Yapan / Hazırlayan
+# Seminerler
 
-Bu sunum, aşağıdaki akademik ve uzmanlık bilgisi ışığında hazırlanmıştır:
+1. **Veri Bilimi: Nedir? Ne İşe Yarar? (Data Science 101)**
+    * **Sunum Dosyası (PowerPoint):** `Data Science 101 - Veri Bilimi ve Is Dunyasındaki Yeri.pptx`
+    * **İçerik:** Veri Bilimi'nin tanımı, istatistik ve bilgisayar bilimleriyle kesişimi, iş dünyasındaki yeri, 2025 WEF raporu ışığında analitik düşünme becerilerinin önemi ve kariyer yolları.
 
-* **Prof. Dr. Bekir Taner Dinçer**
-    * Muğla Sıtkı Koçman Üniversitesi
-    * Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü
-    * **Uzmanlık Alanları:** Bilişsel Bilim (Cognitive Science), İstatistik, Bilgisayar Bilimleri.
 
----
-
-## 🚀 Nasıl Başlanır?
-
-Sunumu indirmek ve incelemek için bu depoyu klonlayabilir veya doğrudan **`Data Science 101 - Veri Bilimi ve Is Dunyasındaki Yeri.pptx`** dosyasına tıklayarak görüntüleyebilirsiniz.
+```
