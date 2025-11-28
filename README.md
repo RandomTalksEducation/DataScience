@@ -60,7 +60,7 @@ SOFTWARE.
 # Seminerler
 
 1. **Veri Bilimi: Nedir? Ne İşe Yarar? (Data Science 101)**
-    * **Sunum Dosyası (PowerPoint):** `Data Science 101 - Veri Bilimi ve Is Dunyasındaki Yeri.pptx`
+    * **Sunum Dosyası (PowerPoint):** `Data Science 101 - Veri Bilimi ve Is Dunyasındaki Yeri.pdf`
     * **İçerik:** Veri Bilimi'nin tanımı, istatistik ve bilgisayar bilimleriyle kesişimi, iş dünyasındaki yeri, 2025 WEF raporu ışığında analitik düşünme becerilerinin önemi ve kariyer yolları.
 
 
